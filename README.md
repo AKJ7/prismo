@@ -1,7 +1,7 @@
 # Prismo
 
 <p align="center">
-  <img src="res/Prismo_Portrait.webp" alt="Prismo's protrait/logo" width="64" height="64"/>
+  <img src="res/Prismo_Portrait.webp" alt="Prismo's protrait/logo" width="128" height="128"/>
 </p>
 
 ---
@@ -26,15 +26,7 @@ then follow the steps as described [here](https://github.com/hzeller/rpi-rgb-led
 
 ## Demo
 
-<iframe
-  width="640"
-  height="480"
-  src="res/demo.mp4"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/AKJ7/prismo/blob/master/res/demo.mp4)
 
 
 ## Reference
